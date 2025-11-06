@@ -62,11 +62,6 @@ Queue Operations: MainFrame window me ENQUEUE, DEQUEUE, PEEK, UPDATE, SEARCH, DI
 
 Statistics: StatisticsWindow open karo aur queue ke stats/report check karo
 
-🔗 Useful Links
-Video Demo: (yahan apni Google Drive ya YouTube video ka link dalo)
-
-Report: (Google Classroom ya university portal par submit karo)
-
 🙋‍♂️ Developer
 Roman Ali Maitloo
 
